@@ -6,7 +6,7 @@ fun main() {
     val discount3 = 0.01
 
     var purchaseValue = 320_00            // сумма покупки
-    val amountPreviousPurchase = 1850_00  // предыдущая сумма покупки в копейках
+    val amountPreviousPurchase = 1150_00  // предыдущая сумма покупки в копейках
     val userMeloman = true
 
     val intermediateDiscount: Int
